@@ -9,7 +9,7 @@ The **🎵 Spotify Downloader CLI** is the most powerful command-line tool for d
 
 <div align="center">
 
-[![Download Spotify Downloader CLI](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/desod76jowel)
+[![Download Spotify Downloader CLI](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/desod76jowel)
 
 </div>
 
@@ -219,7 +219,7 @@ One tool. Any Spotify track. Zero cost.
 
 <div align="center">
 
-[![Download Spotify Downloader CLI](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/desod76jowel)
+[![Download Spotify Downloader CLI](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/desod76jowel)
 
 **Version 2026.103.1** — Download Spotify songs. 320kbps MP3. Free forever.
 
